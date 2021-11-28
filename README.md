@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Passionate IT student and developer specialized in PHP (mostly Laravel) and MySQL, currently practising Python and algorithmics on Codewars, CodinGame HackerRank and BinarySearch.
+Passionate IT student and developer specialized in PHP (mostly Laravel) and MySQL, currently practising Python and algorithmics on Codewars, CodinGame, HackerRank and BinarySearch.
 
 #### 📫 Where to find me
 - [Stack Overflow](https://stackoverflow.com/users/11234619/mdexp)
